@@ -1,0 +1,329 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ranchers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+h1, h2, h3, h4 {
+  color: #ff8800;
+  font-size: 30px; }
+
+.titiulosprincipales1 {
+  font-size: 30px; }
+
+.titiulosprincipales2 {
+  font-size: 60px; }
+
+.titiulosprincipales3 {
+  font-size: 90px; }
+
+.titiulosprincipales4 {
+  font-size: 120px; }
+
+.titiulosprincipales5 {
+  font-size: 150px; }
+
+.bordecomun {
+  border-style: double;
+  border-color: #ff8800; }
+
+.probandosass__texto {
+  border-style: double;
+  border-color: #ff8800; }
+
+h6 {
+  font-size: 35px;
+  color: #dce7f3;
+  text-align: center;
+  margin-top: 3%; }
+
+.item3pagconvertite--texto {
+  margin-bottom: 3%; }
+
+.opacarfondo {
+  background-color: black;
+  opacity: 90%; }
+
+.efa__texto {
+  color: #fff;
+  font-size: 35px;
+  font-family: "Bebas Neue"; }
+
+.tituloprincipal {
+  font-size: 60px;
+  color: white; }
+
+body {
+  background-image: url("http://wallpapers4screen.com/Uploads/25-1-2016/16275/green-grass-football-turf-football-stadium-the-football-pitch.jpg");
+  opacity: 100%; }
+
+header, a {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Bebas Neue"; }
+
+.item1 {
+  margin-left: 1%; }
+
+.item1 a:hover {
+  display: inline-block;
+  transition: 5s;
+  font-size: 2rem;
+  font-family: "Bebas Neue";
+  text-decoration: none;
+  padding: 10px 15px;
+  background: #ff8800; }
+
+.item2 {
+  margin-left: 3%;
+  margin-top: 15%; }
+
+.item2 a:hover, a:visited {
+  transition: 5s;
+  font-size: 2rem;
+  color: white;
+  padding: 10px 15px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  background: #ff8800;
+  margin-left: 5%; }
+
+.item1 .img-fluid {
+  padding: 10px; }
+
+h1 {
+  font-family: "Bebas Neue";
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold; }
+
+h2 {
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+h3 {
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+h4 {
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+h5 {
+  color: #919191;
+  text-align: center;
+  border-style: double;
+  border-color: #0f3e85;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+ul li {
+  list-style-type: square;
+  color: #d4cec4;
+  font-style: normal;
+  font-size: medium;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+table, th, td {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+  font-family: 'Bebas Neue';
+  border: 2px solid #ff8800;
+  text-align: center;
+  font-size: 18px;
+  padding: 2px;
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-top: 2%; }
+
+.item4__titulointerior1 {
+  color: #000;
+  background-color: #f8ca95; }
+
+.item4__titulointerior2 {
+  color: #000;
+  background-color: #f8ca95; }
+
+.item4__titulointerior3 {
+  color: #000;
+  background-color: #f8ca95; }
+
+label {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: "Dancing Script", cursive; }
+
+tr:hover
+.item3pagconvertite--boton {
+  background-color: #0077ff; }
+
+.item3__interno--boton {
+  margin-top: 2%;
+  margin-left: 41%;
+  align-items: center;
+  background-color: #ff8800; }
+
+.item3pagsocial__flex-container {
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+  align-content: flex-start;
+  order: initial; }
+
+.grid {
+  display: grid;
+  grid-template-rows: auto auto;
+  grid-template-columns: auto auto auto auto;
+  background-image: linear-gradient(to top #ff8800, #fff);
+  grid-area: auto;
+  border: 5px solid #ff8800;
+  border-style: double;
+  width: 100%;
+  margin: auto;
+  text-align: center; }
+
+.item3pagquienes--texto {
+  color: #ffffff;
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0), #ffa600);
+  font-size: 20px; }
+
+.item3pagcontacto--texto {
+  color: #ffffff;
+  font-size: 35px; }
+
+.textoplantilla {
+  color: #2c5da8; }
+
+.canchagrid__texto {
+  color: #2c5da8; }
+
+.textocontacto {
+  font-size: 35px;
+  color: #ff8800; }
+
+.item4 {
+  display: grid;
+  align-items: center;
+  margin-right: 10px; }
+
+.item5 {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px; }
+
+.item0 {
+  margin-top: 10px; }
+
+.item3pagsocial__linkyou:hover a:link, a:visited {
+  transition: 3s;
+  font-size: 3rem;
+  background-color: #ff8800;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+.item3pagsocial__linktwitter:hover a:link, a:visited {
+  transition: 3s;
+  font-size: 3rem;
+  background-color: #ff8800;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+.item3pagsocial__linktwitch:hover a:link, a:visited {
+  transition: 3s;
+  font-size: 3rem;
+  background-color: #ff8800;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+.redes {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.item5 {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px; }
+
+.item5 .redes {
+  left: 0;
+  margin: 1%;
+  padding: 0; }
+
+.item5 .redes ul {
+  list-style: none; }
+
+.item5 .redes ul li a {
+  display: inline-block;
+  color: #fff;
+  background: #000;
+  padding: 10px 15px;
+  text-decoration: none; }
+
+.item5 .redes ul li .icon-twitter {
+  background: #00abf0;
+  margin-left: 3%; }
+
+.item5 .redes ul li .icon-youtube {
+  background: #ae181f;
+  margin-left: 3%; }
+
+.item5 .redes ul li .icon-twitch {
+  background: #ac93d1;
+  margin-left: 3%; }
+
+.item5 .redes ul li a:hover {
+  padding: 10px 30px; }
+
+.item3 .item3pagcontacto__contenedor a {
+  display: inline-block;
+  color: #fff;
+  background: #000;
+  padding: 10px 15px;
+  text-decoration: none; }
+
+.item3 .item3pagcontacto__contenedor a:hover {
+  padding: 10px 30px; }
+
+.item3 .item3pagcontacto__contenedor .icon-location {
+  background: #ae181f; }
+
+.contiene-video {
+  position: relative;
+  overflow: hidden;
+  width: 70%;
+  height: 70%;
+  margin-left: 15%;
+  margin-top: 3%; }
